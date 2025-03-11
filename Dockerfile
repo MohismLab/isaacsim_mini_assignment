@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y \
     python3-venv \
     ros-humble-ackermann-msgs \
     ros-humble-teleop-twist-keyboard \
-    apt install ros-humble-rmw-cyclonedds-cpp \
+    ros-humble-rmw-cyclonedds-cpp \
     vim \
     ros-humble-tf-transformations \
     # ros-humble-navigation2 \
