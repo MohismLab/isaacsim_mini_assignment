@@ -123,13 +123,13 @@ echo 'export ROS_DOMAIN_ID=<a number>' >> ~/.bashrc
 ```
 Make sure there is no any process that runs ROS2:
 ```bash
-px -ax
+ps -ax
 kill <PID>
 ```
 
 Example:
 ```bash
-px -ax
+ps -ax
 
     PID TTY      STAT   TIME COMMAND
     147 pts/1    Sl     0:00 /usr/bin/python3 -c from ros2cli.daemon.daemonize import main; main() --n
