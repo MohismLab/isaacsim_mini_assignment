@@ -1,4 +1,4 @@
-# Mini Assignment
+# IsaacSim mini assignment
 
 ## Introduction
 This project demonstrates a proportional controller designed to navigate a wheeled robot to a specified target.
