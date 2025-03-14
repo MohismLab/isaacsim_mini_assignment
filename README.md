@@ -106,7 +106,7 @@ When launching Isaac Sim from the NVIDIA Omniverse Launcher, set `export RMW_IMP
 
 ![image](images/ros_setup_isaacsim.png)
 
-6. When isaacsim start, import environment usd file by navigate to <mini-assignment/usd/world.usd> at content  
+6. When isaacsim start, import environment usd file by navigate to <isaacsim_mini_assignment/usd/world.usd> at content  
 
 ![image](images/import_usd.png)
 
